@@ -1,0 +1,4 @@
+C:\Users\danii\source\repos\Чтение из Excel\Чтение из Excel\bin\Debug\netcoreapp3.1\Чтение из Excel.exe
+C:\Users\danii\source\repos\Чтение из Excel\Чтение из Excel\obj\Debug\netcoreapp3.1\Чтение из Excel.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Чтение из Excel\Чтение из Excel\obj\Debug\netcoreapp3.1\Чтение из Excel.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\Чтение из Excel\Чтение из Excel\obj\Debug\netcoreapp3.1\Чтение из Excel.AssemblyInfo.cs
